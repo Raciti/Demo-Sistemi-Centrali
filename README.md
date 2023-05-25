@@ -15,17 +15,17 @@ Alla fine della relazione verrà mostrato in concreto con una piccola guida su c
     1. Apprendimento Semi Supervisionato
     2. Apprendimento per Rinforzo
 2. Infrastruttura di calcolo per machine learning
-  1. On-premise
-  2. Cloud
+  - On-premise
+  - Cloud
 3. Architettura Necessaria
 4. Cloud Services
-  1. Saas
-  2. Pass
-  3. Iaas
+  - Saas
+  - Pass
+  - Iaas
 5. Aziende sul mercato
-  1. AWS
-  2. Azure
-  3. GoogleCloudPlatform
+  * AWS
+  * Azure
+  * GoogleCloudPlatform
 6. Algoritmi di machine learning parallelizzabili
     
 
