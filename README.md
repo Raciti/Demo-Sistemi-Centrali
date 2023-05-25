@@ -9,9 +9,9 @@ Alla fine della relazione verrà mostrato in concreto con una piccola guida su c
 #Indice
 
 1. Machine Learning
-  1. Apprendimento Supervisionato
-  2. Apprendimento non Supervisionato
-  3. Apprendimento Misto
+  - Apprendimento Supervisionato
+  - Apprendimento non Supervisionato
+  - Apprendimento Misto
     1. Apprendimento Semi Supervisionato
     2. Apprendimento per Rinforzo
 2. Infrastruttura di calcolo per machine learning
